@@ -1,0 +1,24 @@
+LR’s Dynamic Dungeon – Custom License
+
+© Linkronny/LinkedR 2025
+
+You are free to:
+- Create compatibility packs, extensions, or add-ons that interact with LR’s Dynamic Dungeon.
+- Use LR’s Dynamic Dungeon as part of a modpack.
+- Reference LR’s Dynamic Dungeon in your own mod’s documentation or config files.
+- Build compatibility with any other mod.
+
+You may not:
+- Redistribute LR’s Dynamic Dungeon’s code or assets without explicit permission.
+- Claim ownership of LR’s Dynamic Dungeon or its original content.
+
+Redistribution in Modpacks:
+You are welcome to include this mod in modpacks hosted on CurseForge, Modrinth, or other platforms, provided that proper credit is given to Linkronny/LinkedR and a link to the official mod page is included when possible.
+
+Attribution:
+If your mod directly uses or modifies LR’s Dynamic Dungeon’s code, please credit “Linkronny/LinkedR – Creator of LR’s Dynamic Dungeon.” Attribution is optional for mods that simply extend the system through data packs or external compatibility.
+
+Disclaimer:
+LR’s Dynamic Dungeon includes compatibility features for other mods. These features do not imply ownership, redistribution, or endorsement of third-party content. All rights to third-party content remain with their respective creators.
+
+This license is designed to encourage creativity and collaboration while respecting the work of all modders involved.
