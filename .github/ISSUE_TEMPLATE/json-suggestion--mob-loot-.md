@@ -2,7 +2,7 @@
 name: JSON suggestion (Mob/Loot)
 about: Suggest a JSON compatibility file for either mob or loot addition.
 title: "[JSON suggestion] Compatibility for MOD_ID"
-labels: compatibility
+labels: compatibility, JSON
 assignees: ''
 
 ---
